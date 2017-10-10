@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "translator",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "A google translator extendsion",
+    "description": "The description of the application"
+  }
+}
